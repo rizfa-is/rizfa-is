@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Rosyid 👋
 
+- 🔭 I’m currently working on Lionbridge
+- 🌱 I’m currently learning Jetpack Pro
 <!--
 **rizfa-is/rizfa-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Lionbridge
-- 🌱 I’m currently learning Jetpack Pro
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
