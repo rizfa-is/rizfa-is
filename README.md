@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Rosyid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizfa-is)](https://github.com/rizfa-is/github-readme-stats)
+[![Rosyid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizfa-is&include_all_commit=true)](https://github.com/rizfa-is/github-readme-stats)
 
