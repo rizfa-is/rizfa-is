@@ -1,7 +1,7 @@
 ### Hi there, I'm Rosyid 👋
 
-- 🔭 I’m currently working on Lionbridge
-- 🌱 I’m currently learning Jetpack Pro
+- 🔭 I’m currently working on Sios Group
+- 🌱 I’m currently learning Compose Multiplaform
 <!--
 **rizfa-is/rizfa-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
