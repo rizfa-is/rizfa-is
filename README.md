@@ -7,20 +7,17 @@
 
 ## 📊 Personal Analytics Dashboard
 
-### 📈 Contribution Activity Trend
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizfa-is&theme=tokyonight&area=true" alt="Rosyid's Activity Graph" width="100%" />
-</p>
-
-### 🧮 Core Metrics & Language Focus
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizfa-is&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Rosyid's GitHub stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizfa-is&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" alt="Rosyid's Top Languages" height="180" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizfa-is&theme=tokyonight&hide_border=false" alt="Rosyid's Contribution Streak" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="250" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="250" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="100%" />
 </p>
 
 ---
