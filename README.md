@@ -1,19 +1,26 @@
 ### Hi there, I'm Rosyid 👋
 
 - 🔭 I’m currently working on Sios Group
-- 🌱 I’m currently learning Compose Multiplaform
-<!--
-**rizfa-is/rizfa-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Compose Multiplatform
 
-Here are some ideas to get you started:
+---
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Personal Analytics Dashboard
 
-[![Rosyid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizfa-is&include_all_commits=true)](https://github.com/rizfa-is/github-readme-stats)
+### 📈 Contribution Activity Trend
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.add/graph?username=rizfa-is&theme=tokyonight&area=true&category=commits" alt="Rosyid's Activity Graph" width="100%" />
+</p>
 
+### 🧮 Core Metrics & Language Focus
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizfa-is&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Rosyid's GitHub stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizfa-is&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" alt="Rosyid's Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizfa-is&theme=tokyonight&hide_border=false" alt="Rosyid's Contribution Streak" />
+</p>
+
+---
