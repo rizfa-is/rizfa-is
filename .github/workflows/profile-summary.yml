@@ -3,15 +3,19 @@ name: GitHub Profile Summary Cards
 on:
   schedule: # Berjalan otomatis setiap 24 jam
     - cron: '0 0 * * *'
-  workflow_dispatch: # Bisa dijalankan manual kapan saja
+  workflow_dispatch: # Bisa dijalankan manual via tombol
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-cards
+    permissions:
+      contents: write # Mengizinkan action untuk menulis/menyimpan gambar SVG ke repositori Anda
     steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@v2.3.1
+      - uses: actions/checkout@v4
+      
+      # Perbaikan: Menggunakan @master agar selalu mengarah ke kode paling stabil dan kompatibel
+      - uses: vn7n24fzkq/github-profile-summary-cards@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
